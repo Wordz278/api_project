@@ -1,11 +1,17 @@
-# Editable install with no version control (api==0.0.0)
--e /home/recruit/dev/api_project
+-e git+https://github.com/Wordz278/api_project.git@e6ae2f000af65ca631a1b528501383d788667fa2#egg=api
+astroid==2.3.3
 certifi==2019.11.28
 chardet==3.0.4
 Deprecated==1.2.7
 idna==2.9
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
 PyGithub==1.47
 PyJWT==1.7.1
+pylint==2.4.4
 requests==2.23.0
+six==1.14.0
+typed-ast==1.4.1
 urllib3==1.25.8
-wrapt==1.12.1
+wrapt==1.11.2
