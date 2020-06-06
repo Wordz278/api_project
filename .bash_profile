@@ -1,3 +1,3 @@
-export API_TOKEN="0564a0a5f01dbc856c9bfb71c27d84552e08dfee"
-export API_USERNAME="Wordz278"
-export API_PASSWORD="Wordz008"
+export API_TOKEN="Your Api Token"
+export API_USERNAME="Your Username"
+export API_PASSWORD="Your Password"
