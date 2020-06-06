@@ -1,6 +1,6 @@
 from github import Github
-from credentials import Api_Token
 from urllib.parse import parse_qs
+from credentials import Api_Token
 
 api_credentials = Api_Token()
 token = api_credentials.token_code()
