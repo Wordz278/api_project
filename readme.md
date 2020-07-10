@@ -18,7 +18,7 @@ Accessing Your Github repos
     https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token  
 2. You can use your credentials but they are depreciated.  
 
-Running the application  
+Running the application, this project uses environment variables  
 1. Open the env.sh file   
 2. Paste in your access token or  
 3. Use your credentials and paste in your username and password  
