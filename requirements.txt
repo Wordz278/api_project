@@ -1,4 +1,4 @@
--e git+https://github.com/Wordz278/api_project.git@e6ae2f000af65ca631a1b528501383d788667fa2#egg=api
+-e git+https://github.com/Wordz278/api_project.git@9328f7ec79c2fd7daa32270d2a2ddb94ee5336b3#egg=api
 astroid==2.3.3
 certifi==2019.11.28
 chardet==3.0.4
