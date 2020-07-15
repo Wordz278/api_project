@@ -8,7 +8,7 @@ password = os.environ.get("PASSWORD")
 token = os.environ.get("TOKEN")
 
 
-g = Github("Wordz278","Javas008")
+# g = Github(username,password)
 g = Github(token)
 
 def get_pull_requests(start_date:str, end_date:str, repo_name:str):
